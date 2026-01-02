@@ -7,7 +7,13 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+API_KEY = os.getenv("OPENAI_API_KEY") or os.getenv("OPENROUTER_API_KEY")
+
+client = OpenAI(
+    api_key=API_KEY,
+    base_url="https://openrouter.ai/api/v1" if os.getenv("OPENROUTER_API_KEY") else None
+)
+
 
 
 class ZohoRAG:
