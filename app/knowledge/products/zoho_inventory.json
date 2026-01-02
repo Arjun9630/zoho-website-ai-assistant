@@ -1,0 +1,30 @@
+{
+  "product_name": "Zoho Inventory",
+  "category": "Operations",
+  "primary_problems_solved": [
+    "Difficulty tracking stock levels across products and sizes",
+    "Manual inventory updates leading to errors",
+    "Mismatch between sales and available stock"
+  ],
+  "ideal_for": [
+    "Retail stores",
+    "E-commerce businesses",
+    "Wholesale distributors"
+  ],
+  "key_workflows": [
+    "Track inventory in real time",
+    "Sync inventory with billing and orders",
+    "Manage purchase and sales orders"
+  ],
+  "integrates_with": [
+    "Zoho Invoice",
+    "Zoho Books",
+    "Zoho Commerce",
+    "Zoho Sheet"
+  ],
+  "typical_follow_up_questions": [
+    "How are you currently tracking stock?",
+    "Do you sell online or only in-store?",
+    "Do you face overstocking or stock shortages?"
+  ]
+}

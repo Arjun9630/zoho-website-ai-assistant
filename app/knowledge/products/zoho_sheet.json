@@ -1,0 +1,29 @@
+{
+  "product_name": "Zoho Sheet",
+  "category": "Collaboration",
+  "primary_problems_solved": [
+    "Manual data tracking in spreadsheets",
+    "Difficulty collaborating on data",
+    "No real-time updates"
+  ],
+  "ideal_for": [
+    "Small teams",
+    "Retail businesses",
+    "Operations teams"
+  ],
+  "key_workflows": [
+    "Track business data",
+    "Collaborate on spreadsheets",
+    "Analyze trends"
+  ],
+  "integrates_with": [
+    "Zoho Inventory",
+    "Zoho Books",
+    "Zoho Analytics"
+  ],
+  "typical_follow_up_questions": [
+    "Do you track data in spreadsheets?",
+    "Do multiple people edit the same sheet?",
+    "Do you analyze sales or stock trends?"
+  ]
+}

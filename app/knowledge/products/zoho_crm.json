@@ -1,0 +1,30 @@
+{
+  "product_name": "Zoho CRM",
+  "category": "Sales",
+  "primary_problems_solved": [
+    "Leads and customer details scattered across tools",
+    "No clear sales pipeline visibility",
+    "Difficulty tracking customer interactions"
+  ],
+  "ideal_for": [
+    "Sales teams",
+    "Growing businesses",
+    "B2B and B2C companies"
+  ],
+  "key_workflows": [
+    "Track leads and deals",
+    "Manage customer relationships",
+    "Automate sales follow-ups"
+  ],
+  "integrates_with": [
+    "Zoho Desk",
+    "Zoho Invoice",
+    "Zoho Books",
+    "Zoho Analytics"
+  ],
+  "typical_follow_up_questions": [
+    "How do you track leads today?",
+    "Do you have a defined sales process?",
+    "Do multiple people talk to the same customer?"
+  ]
+}

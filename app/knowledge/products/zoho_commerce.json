@@ -1,0 +1,29 @@
+{
+  "product_name": "Zoho Commerce",
+  "category": "E-commerce",
+  "primary_problems_solved": [
+    "No online store presence",
+    "Manual order management",
+    "Disconnected inventory and sales"
+  ],
+  "ideal_for": [
+    "Retailers",
+    "Small e-commerce businesses",
+    "Direct-to-consumer brands"
+  ],
+  "key_workflows": [
+    "Create online storefront",
+    "Manage online orders",
+    "Sync inventory with sales"
+  ],
+  "integrates_with": [
+    "Zoho Inventory",
+    "Zoho Books",
+    "Zoho CRM"
+  ],
+  "typical_follow_up_questions": [
+    "Do you sell online?",
+    "Do you manage online orders manually?",
+    "Do you want inventory synced automatically?"
+  ]
+}

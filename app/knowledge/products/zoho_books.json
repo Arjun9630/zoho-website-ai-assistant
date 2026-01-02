@@ -1,0 +1,30 @@
+{
+  "product_name": "Zoho Books",
+  "category": "Finance",
+  "primary_problems_solved": [
+    "Lack of clarity in business finances",
+    "Manual accounting and bookkeeping",
+    "Difficulty managing taxes and compliance"
+  ],
+  "ideal_for": [
+    "Small and medium businesses",
+    "Retailers",
+    "Service-based companies"
+  ],
+  "key_workflows": [
+    "Track income and expenses",
+    "Manage taxes and compliance",
+    "Generate financial reports"
+  ],
+  "integrates_with": [
+    "Zoho Invoice",
+    "Zoho Inventory",
+    "Zoho CRM",
+    "Zoho Analytics"
+  ],
+  "typical_follow_up_questions": [
+    "Do you track expenses manually?",
+    "Are you working with an accountant?",
+    "Do you need financial reports regularly?"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "product_name": "Zoho Analytics",
+  "category": "Analytics",
+  "primary_problems_solved": [
+    "No clear visibility into business performance",
+    "Data scattered across multiple tools",
+    "Manual reporting"
+  ],
+  "ideal_for": [
+    "Business owners",
+    "Managers",
+    "Data-driven teams"
+  ],
+  "key_workflows": [
+    "Create dashboards and reports",
+    "Analyze business performance",
+    "Track KPIs"
+  ],
+  "integrates_with": [
+    "Zoho CRM",
+    "Zoho Books",
+    "Zoho Inventory",
+    "Zoho Desk"
+  ],
+  "typical_follow_up_questions": [
+    "Do you review reports regularly?",
+    "Do you track business metrics?",
+    "Do you need dashboards for decision-making?"
+  ]
+}

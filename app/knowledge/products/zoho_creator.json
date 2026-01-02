@@ -1,0 +1,29 @@
+{
+  "product_name": "Zoho Creator",
+  "category": "Automation",
+  "primary_problems_solved": [
+    "Manual processes with no automation",
+    "Custom workflows not supported by standard software",
+    "Disconnected internal tools"
+  ],
+  "ideal_for": [
+    "Businesses with custom workflows",
+    "Operations-heavy teams",
+    "Growing organizations"
+  ],
+  "key_workflows": [
+    "Build custom business apps",
+    "Automate workflows",
+    "Integrate internal systems"
+  ],
+  "integrates_with": [
+    "Zoho CRM",
+    "Zoho Books",
+    "Zoho Inventory"
+  ],
+  "typical_follow_up_questions": [
+    "Do you have manual internal processes?",
+    "Do you need custom workflows?",
+    "Do you use multiple disconnected tools?"
+  ]
+}

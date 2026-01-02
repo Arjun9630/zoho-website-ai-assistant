@@ -1,0 +1,29 @@
+{
+  "product_name": "Zoho Invoice",
+  "category": "Finance",
+  "primary_problems_solved": [
+    "Manual billing and invoice creation",
+    "Delayed or unprofessional invoices",
+    "Difficulty tracking payments"
+  ],
+  "ideal_for": [
+    "Small businesses",
+    "Freelancers",
+    "Retail and service businesses"
+  ],
+  "key_workflows": [
+    "Create and send invoices",
+    "Track payments and outstanding dues",
+    "Automate billing for repeat customers"
+  ],
+  "integrates_with": [
+    "Zoho Inventory",
+    "Zoho Books",
+    "Zoho CRM"
+  ],
+  "typical_follow_up_questions": [
+    "How do you currently generate bills?",
+    "Do you accept online payments?",
+    "Do you invoice repeat customers?"
+  ]
+}

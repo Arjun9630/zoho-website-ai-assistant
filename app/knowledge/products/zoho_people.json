@@ -1,0 +1,28 @@
+{
+  "product_name": "Zoho People",
+  "category": "HR",
+  "primary_problems_solved": [
+    "Manual employee management",
+    "Difficulty tracking attendance and leave",
+    "Lack of centralized HR data"
+  ],
+  "ideal_for": [
+    "Companies with employees",
+    "Growing teams",
+    "HR departments"
+  ],
+  "key_workflows": [
+    "Manage employee records",
+    "Track attendance and leave",
+    "Handle HR processes"
+  ],
+  "integrates_with": [
+    "Zoho Books",
+    "Zoho Analytics"
+  ],
+  "typical_follow_up_questions": [
+    "How many employees do you have?",
+    "Do you track attendance manually?",
+    "Do you manage leave requests on paper?"
+  ]
+}

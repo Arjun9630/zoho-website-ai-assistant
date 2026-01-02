@@ -1,0 +1,28 @@
+{
+  "product_name": "Zoho Desk",
+  "category": "Support",
+  "primary_problems_solved": [
+    "Customer support requests spread across email and calls",
+    "Slow response times",
+    "No visibility into customer issues"
+  ],
+  "ideal_for": [
+    "Customer support teams",
+    "Service-based businesses",
+    "Growing companies"
+  ],
+  "key_workflows": [
+    "Manage customer support tickets",
+    "Track issue resolution",
+    "Improve customer satisfaction"
+  ],
+  "integrates_with": [
+    "Zoho CRM",
+    "Zoho Analytics"
+  ],
+  "typical_follow_up_questions": [
+    "How do customers reach you for support?",
+    "Do you track response times?",
+    "Do you have recurring support issues?"
+  ]
+}
